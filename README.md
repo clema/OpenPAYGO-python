@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/EnAccess/OpenPAYGO-Token">
     <img
-      src="https://enaccess.org/wp-content/uploads/2024/02/OpenPAYGO-Graphics-GitHub-2240-×-800.svg"
+      src="https://enaccess.org/wp-content/uploads/2024/02/OpenPAYGO_Suite_IsoLogo.png"
       alt="OpenPAYGO Token"
-      width="640"
+      width="320"
     >
   </a>
 </p>
